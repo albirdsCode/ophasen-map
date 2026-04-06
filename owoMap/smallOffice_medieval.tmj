@@ -3445,8 +3445,17 @@
          "tilewidth":125
         }, 
         {
+         "columns":16,
          "firstgid":4523,
-         "source":"deco.tsx"
+         "image":"deco.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"deco",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
