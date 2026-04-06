@@ -1614,14 +1614,14 @@
                          "value":false
                         }, 
                         {
-                         "name":"jitsiRoom",
+                         "name":"livekit",
                          "type":"string",
-                         "value":"fireTalk3"
+                         "value":"fireTalk3 - livekit"
                         }, 
                         {
-                         "name":"jitsiTrigger",
+                         "name":"livekitDisplayMode",
                          "type":"string",
-                         "value":"onaction"
+                         "value":"grid"
                         }],
                  "rotation":0,
                  "type":"area",
