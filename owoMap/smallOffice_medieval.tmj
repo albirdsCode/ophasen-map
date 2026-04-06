@@ -2472,11 +2472,6 @@
          "name":"mapName",
          "type":"string",
          "value":"medieval Office"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"assets\/smallOffice-main-7bdba736.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
