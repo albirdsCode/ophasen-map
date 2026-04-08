@@ -1826,7 +1826,7 @@
                 {
                  "height":162.404665769403,
                  "id":78,
-                 "name":"",
+                 "name":"athenaLink",
                  "opacity":1,
                  "properties":[
                         {
@@ -1845,7 +1845,7 @@
                          "value":"open late arrival guide"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":119.336025123374,
                  "x":708.838043965904,
