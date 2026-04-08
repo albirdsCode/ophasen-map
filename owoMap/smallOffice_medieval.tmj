@@ -1731,11 +1731,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open ASTA website"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1764,11 +1759,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open D120 website"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1822,11 +1812,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open late arrival guide"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1855,11 +1840,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open Account setup"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1888,11 +1868,6 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open campus plan"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
