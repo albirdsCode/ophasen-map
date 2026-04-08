@@ -1768,59 +1768,6 @@
                  "y":809.443507588533
                 }, 
                 {
-                 "height":0,
-                 "id":69,
-                 "name":"Athene",
-                 "opacity":1,
-                 "polygon":[
-                        {
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "x":0,
-                         "y":158.870785366724
-                        }, 
-                        {
-                         "x":-145.742420913984,
-                         "y":159.763317868784
-                        }, 
-                        {
-                         "x":-145.742420913984,
-                         "y":126.739615292555
-                        }, 
-                        {
-                         "x":-90.4608129810939,
-                         "y":62.4772751442175
-                        }, 
-                        {
-                         "x":-91.4659331253282,
-                         "y":-0.892532502060212
-                        }],
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.d120.de\/en\/studium\/anfaenger\/late-arrival"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"open late arrival guide"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":0,
-                 "x":816.728486415005,
-                 "y":895.540619836754
-                }, 
-                {
                  "height":129.58196503062,
                  "id":74,
                  "name":"TucanStatue",
@@ -1875,6 +1822,34 @@
                  "width":115.381201739594,
                  "x":880.447324043667,
                  "y":688.737019614804
+                }, 
+                {
+                 "height":162.404665769403,
+                 "id":78,
+                 "name":"",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.d120.de\/en\/studium\/anfaenger\/late-arrival"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open late arrival guide"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":119.336025123374,
+                 "x":708.838043965904,
+                 "y":892.777030058322
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2600,13 +2575,13 @@
          "parallaxx":0.95,
          "parallaxy":0.95,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":55,
          "x":0,
          "y":0
         }],
  "nextlayerid":132,
- "nextobjectid":78,
+ "nextobjectid":79,
  "orientation":"orthogonal",
  "properties":[
         {
