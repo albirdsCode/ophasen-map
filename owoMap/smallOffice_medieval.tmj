@@ -1771,6 +1771,11 @@
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"open ASTA website"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
