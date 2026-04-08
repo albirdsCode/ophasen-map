@@ -1721,6 +1721,21 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.asta.tu-darmstadt.de\/en"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open ASTA website"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1739,6 +1754,21 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.d120.de\/en\/index"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open D120 website"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1781,7 +1811,22 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.tu-darmstadt.de\/index.en.jsp"
+                         "value":"https:\/\/www.d120.de\/en\/studium\/anfaenger\/late-arrival"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open late arrival guide"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1799,7 +1844,22 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.d120.de\/en\/studium\/anfaenger\/late-arrival"
+                         "value":"https:\/\/www.d120.de\/en\/studium\/anfaenger\/accounts"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open Account setup"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1818,6 +1878,21 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.tu-darmstadt.de\/universitaet\/campus\/stadtmitte_3\/index.de.jsp"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"open campus plan"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"openTab"
                         }],
                  "rotation":0,
                  "type":"area",
