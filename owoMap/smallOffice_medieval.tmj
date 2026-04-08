@@ -1804,7 +1804,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.tu-darmstadt.de\/universitaet\/campus\/stadtmitte_3\/index.de.jsp"
+                         "value":"https:\/\/www.sight-board.de\/tu-darmstadt\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
