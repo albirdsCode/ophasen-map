@@ -1400,6 +1400,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1428,6 +1433,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1456,6 +1466,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1484,6 +1499,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1512,6 +1532,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1540,6 +1565,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1568,6 +1598,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1652,6 +1687,11 @@
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"open jitsi call"
                         }],
                  "rotation":0,
                  "type":"area",
